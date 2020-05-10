@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642742240352",
+    "firebase_url": "https://fruit-pairs.firebaseio.com",
+    "project_id": "fruit-pairs",
+    "storage_bucket": "fruit-pairs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642742240352:android:6837e636e9dfa1ca292f05",
+        "android_client_info": {
+          "package_name": "com.example.memorygame1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642742240352-u02cte1c8ricl5p0vjct3p0mr9l8fsl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxhLJiyn91bEg3yj8hpXkDExqqyAf878"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642742240352-u02cte1c8ricl5p0vjct3p0mr9l8fsl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
